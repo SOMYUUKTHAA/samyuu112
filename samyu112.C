@@ -16,9 +16,9 @@ void main()
     {
         scanf("%d",&K[j]);
     }
-    for(i=0;i<5;i++)
+    for(i=0;i<n;i++)
     {
-        for(j=0;j<5;j++)
+        for(j=0;j<n;j++)
         {
             if(N[i]==K[j])
             {
